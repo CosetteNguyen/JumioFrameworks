@@ -38,6 +38,14 @@
 		9FECB11A27B654AB00AA22C8 /* Pdf417Mobi.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0ED27B6537700AA22C8 /* Pdf417Mobi.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
 		9FECB11B27B654AE00AA22C8 /* SocketIO.framework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0E027B6537600AA22C8 /* SocketIO.framework */; settings = {ATTRIBUTES = (Public, ); }; };
 		9FECB11C27B654BA00AA22C8 /* Starscream.framework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0B427B6537600AA22C8 /* Starscream.framework */; settings = {ATTRIBUTES = (Public, ); }; };
+		9FECB12127B65A2F00AA22C8 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB11D27B65A2F00AA22C8 /* CoreData.framework */; };
+		9FECB12227B65A2F00AA22C8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB11E27B65A2F00AA22C8 /* UIKit.framework */; };
+		9FECB12327B65A2F00AA22C8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB11F27B65A2F00AA22C8 /* Foundation.framework */; };
+		9FECB12427B65A2F00AA22C8 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB12027B65A2F00AA22C8 /* SystemConfiguration.framework */; };
+		9FECB12527B65A6400AA22C8 /* iProov.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB0DF27B6537600AA22C8 /* iProov.xcframework */; };
+		9FECB12627B65A6400AA22C8 /* Pdf417Mobi.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB0ED27B6537700AA22C8 /* Pdf417Mobi.xcframework */; };
+		9FECB12727B65A6400AA22C8 /* SocketIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB0E027B6537600AA22C8 /* SocketIO.framework */; };
+		9FECB12827B65A6400AA22C8 /* Starscream.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB0B427B6537600AA22C8 /* Starscream.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -96,6 +104,11 @@
 		9FECB0EC27B6537700AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
 		9FECB0ED27B6537700AA22C8 /* Pdf417Mobi.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Pdf417Mobi.xcframework; sourceTree = "<group>"; };
 		9FECB0EF27B6537700AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
+		9FECB11D27B65A2F00AA22C8 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CoreData.framework; sourceTree = "<group>"; };
+		9FECB11E27B65A2F00AA22C8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UIKit.framework; sourceTree = "<group>"; };
+		9FECB11F27B65A2F00AA22C8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Foundation.framework; sourceTree = "<group>"; };
+		9FECB12027B65A2F00AA22C8 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SystemConfiguration.framework; sourceTree = "<group>"; };
+		9FECB12A27B65A6500AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +116,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FECB12527B65A6400AA22C8 /* iProov.xcframework in Frameworks */,
+				9FECB12627B65A6400AA22C8 /* Pdf417Mobi.xcframework in Frameworks */,
+				9FECB12727B65A6400AA22C8 /* SocketIO.framework in Frameworks */,
+				9FECB12827B65A6400AA22C8 /* Starscream.framework in Frameworks */,
+				9FECB12127B65A2F00AA22C8 /* CoreData.framework in Frameworks */,
+				9FECB12227B65A2F00AA22C8 /* UIKit.framework in Frameworks */,
+				9FECB12327B65A2F00AA22C8 /* Foundation.framework in Frameworks */,
+				9FECB12427B65A2F00AA22C8 /* SystemConfiguration.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +159,11 @@
 		9FECB0AF27B652F200AA22C8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				9FECB12927B65A6500AA22C8 /* Jumio */,
+				9FECB11D27B65A2F00AA22C8 /* CoreData.framework */,
+				9FECB11F27B65A2F00AA22C8 /* Foundation.framework */,
+				9FECB12027B65A2F00AA22C8 /* SystemConfiguration.framework */,
+				9FECB11E27B65A2F00AA22C8 /* UIKit.framework */,
 				9FECB0DF27B6537600AA22C8 /* iProov.xcframework */,
 				9FECB0E527B6537600AA22C8 /* Jumio */,
 				9FECB0EE27B6537700AA22C8 /* Jumio+Liveness */,
@@ -243,6 +269,14 @@
 				9FECB0EF27B6537700AA22C8 /* Jumio.xcframework */,
 			);
 			path = "Jumio+Liveness";
+			sourceTree = "<group>";
+		};
+		9FECB12927B65A6500AA22C8 /* Jumio */ = {
+			isa = PBXGroup;
+			children = (
+				9FECB12A27B65A6500AA22C8 /* Jumio.xcframework */,
+			);
+			path = Jumio;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -577,6 +611,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Frameworks",
+				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -585,6 +623,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MACH_O_TYPE = staticlib;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "Cosette.Jumio-Package";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -605,6 +644,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Frameworks",
+				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -613,6 +656,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MACH_O_TYPE = staticlib;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "Cosette.Jumio-Package";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
