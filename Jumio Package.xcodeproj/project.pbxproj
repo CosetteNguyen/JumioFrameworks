@@ -9,16 +9,6 @@
 /* Begin PBXBuildFile section */
 		9FECB0A827B652D900AA22C8 /* Jumio_Package.docc in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0A727B652D900AA22C8 /* Jumio_Package.docc */; };
 		9FECB0F027B6539E00AA22C8 /* iProov.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0DF27B6537600AA22C8 /* iProov.xcframework */; };
-		9FECB0F127B6539E00AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0E627B6537600AA22C8 /* Jumio.xcframework */; };
-		9FECB0F227B6539E00AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0EF27B6537700AA22C8 /* Jumio.xcframework */; };
-		9FECB0F327B6539E00AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0E827B6537700AA22C8 /* Jumio.xcframework */; };
-		9FECB0F427B6539E00AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0E227B6537600AA22C8 /* Jumio.xcframework */; };
-		9FECB0F527B6539E00AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0E427B6537600AA22C8 /* Jumio.xcframework */; };
-		9FECB0F627B6539E00AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0EC27B6537700AA22C8 /* Jumio.xcframework */; };
-		9FECB0F727B6539E00AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0B127B6537600AA22C8 /* Jumio.xcframework */; };
-		9FECB0F827B6539E00AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0EA27B6537700AA22C8 /* Jumio.xcframework */; };
-		9FECB0F927B6539E00AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0B627B6537600AA22C8 /* Jumio.xcframework */; };
-		9FECB0FA27B6539E00AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0B327B6537600AA22C8 /* Jumio.xcframework */; };
 		9FECB0FB27B6539E00AA22C8 /* Pdf417Mobi.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0ED27B6537700AA22C8 /* Pdf417Mobi.xcframework */; };
 		9FECB0FC27B6539E00AA22C8 /* SocketIO.framework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0E027B6537600AA22C8 /* SocketIO.framework */; };
 		9FECB0FD27B6539E00AA22C8 /* Starscream.framework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0B427B6537600AA22C8 /* Starscream.framework */; };
@@ -26,15 +16,6 @@
 		9FECB10E27B6547900AA22C8 /* Jumio_Package.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0A627B652D900AA22C8 /* Jumio_Package.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9FECB10F27B6548400AA22C8 /* iProov.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0DF27B6537600AA22C8 /* iProov.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
 		9FECB11027B6548700AA22C8 /* Jumio.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0E627B6537600AA22C8 /* Jumio.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
-		9FECB11127B6548A00AA22C8 /* Jumio.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0EF27B6537700AA22C8 /* Jumio.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
-		9FECB11227B6548E00AA22C8 /* Jumio.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0E827B6537700AA22C8 /* Jumio.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
-		9FECB11327B6549100AA22C8 /* Jumio.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0E227B6537600AA22C8 /* Jumio.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
-		9FECB11427B6549300AA22C8 /* Jumio.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0E427B6537600AA22C8 /* Jumio.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
-		9FECB11527B6549600AA22C8 /* Jumio.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0EC27B6537700AA22C8 /* Jumio.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
-		9FECB11627B6549900AA22C8 /* Jumio.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0B127B6537600AA22C8 /* Jumio.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
-		9FECB11727B6549D00AA22C8 /* Jumio.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0EA27B6537700AA22C8 /* Jumio.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
-		9FECB11827B654A000AA22C8 /* Jumio.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0B627B6537600AA22C8 /* Jumio.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
-		9FECB11927B654A400AA22C8 /* Jumio.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0B327B6537600AA22C8 /* Jumio.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
 		9FECB11A27B654AB00AA22C8 /* Pdf417Mobi.xcframework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0ED27B6537700AA22C8 /* Pdf417Mobi.xcframework */; settings = {ATTRIBUTES = (Public, ); }; };
 		9FECB11B27B654AE00AA22C8 /* SocketIO.framework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0E027B6537600AA22C8 /* SocketIO.framework */; settings = {ATTRIBUTES = (Public, ); }; };
 		9FECB11C27B654BA00AA22C8 /* Starscream.framework in Headers */ = {isa = PBXBuildFile; fileRef = 9FECB0B427B6537600AA22C8 /* Starscream.framework */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -46,16 +27,14 @@
 		9FECB12627B65A6400AA22C8 /* Pdf417Mobi.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB0ED27B6537700AA22C8 /* Pdf417Mobi.xcframework */; };
 		9FECB12727B65A6400AA22C8 /* SocketIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB0E027B6537600AA22C8 /* SocketIO.framework */; };
 		9FECB12827B65A6400AA22C8 /* Starscream.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FECB0B427B6537600AA22C8 /* Starscream.framework */; };
+		9FECB12D27B660D200AA22C8 /* Jumio.xcframework in Sources */ = {isa = PBXBuildFile; fileRef = 9FECB0E627B6537600AA22C8 /* Jumio.xcframework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9FECB0A327B652D900AA22C8 /* Jumio_Package.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Jumio_Package.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FECB0A627B652D900AA22C8 /* Jumio_Package.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Jumio_Package.h; sourceTree = "<group>"; };
 		9FECB0A727B652D900AA22C8 /* Jumio_Package.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = Jumio_Package.docc; sourceTree = "<group>"; };
-		9FECB0B127B6537600AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
-		9FECB0B327B6537600AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
 		9FECB0B427B6537600AA22C8 /* Starscream.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Starscream.framework; sourceTree = "<group>"; };
-		9FECB0B627B6537600AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
 		9FECB0B927B6537600AA22C8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = "de.lproj/Localizable-Jumio.strings"; sourceTree = "<group>"; };
 		9FECB0BA27B6537600AA22C8 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = "ar.lproj/Localizable-Jumio.strings"; sourceTree = "<group>"; };
 		9FECB0BB27B6537600AA22C8 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = "el.lproj/Localizable-Jumio.strings"; sourceTree = "<group>"; };
@@ -96,19 +75,12 @@
 		9FECB0DE27B6537600AA22C8 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = "hi.lproj/Localizable-Jumio.strings"; sourceTree = "<group>"; };
 		9FECB0DF27B6537600AA22C8 /* iProov.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = iProov.xcframework; sourceTree = "<group>"; };
 		9FECB0E027B6537600AA22C8 /* SocketIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SocketIO.framework; sourceTree = "<group>"; };
-		9FECB0E227B6537600AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
-		9FECB0E427B6537600AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
 		9FECB0E627B6537600AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
-		9FECB0E827B6537700AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
-		9FECB0EA27B6537700AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
-		9FECB0EC27B6537700AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
 		9FECB0ED27B6537700AA22C8 /* Pdf417Mobi.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Pdf417Mobi.xcframework; sourceTree = "<group>"; };
-		9FECB0EF27B6537700AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
 		9FECB11D27B65A2F00AA22C8 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CoreData.framework; sourceTree = "<group>"; };
 		9FECB11E27B65A2F00AA22C8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UIKit.framework; sourceTree = "<group>"; };
 		9FECB11F27B65A2F00AA22C8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Foundation.framework; sourceTree = "<group>"; };
 		9FECB12027B65A2F00AA22C8 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SystemConfiguration.framework; sourceTree = "<group>"; };
-		9FECB12A27B65A6500AA22C8 /* Jumio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Jumio.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,22 +131,12 @@
 		9FECB0AF27B652F200AA22C8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				9FECB12927B65A6500AA22C8 /* Jumio */,
+				9FECB0E627B6537600AA22C8 /* Jumio.xcframework */,
 				9FECB11D27B65A2F00AA22C8 /* CoreData.framework */,
 				9FECB11F27B65A2F00AA22C8 /* Foundation.framework */,
 				9FECB12027B65A2F00AA22C8 /* SystemConfiguration.framework */,
 				9FECB11E27B65A2F00AA22C8 /* UIKit.framework */,
 				9FECB0DF27B6537600AA22C8 /* iProov.xcframework */,
-				9FECB0E527B6537600AA22C8 /* Jumio */,
-				9FECB0EE27B6537700AA22C8 /* Jumio+Liveness */,
-				9FECB0E727B6537700AA22C8 /* JumioBarcode */,
-				9FECB0E127B6537600AA22C8 /* JumioBarcode+Liveness */,
-				9FECB0E327B6537600AA22C8 /* JumioLineFinder */,
-				9FECB0EB27B6537700AA22C8 /* JumioLineFinder+Liveness */,
-				9FECB0B027B6537600AA22C8 /* JumioMRZ */,
-				9FECB0E927B6537700AA22C8 /* JumioMRZ+Liveness */,
-				9FECB0B527B6537600AA22C8 /* JumioSlim */,
-				9FECB0B227B6537600AA22C8 /* JumioSlim+Liveness */,
 				9FECB0B727B6537600AA22C8 /* Localization */,
 				9FECB0ED27B6537700AA22C8 /* Pdf417Mobi.xcframework */,
 				9FECB0E027B6537600AA22C8 /* SocketIO.framework */,
@@ -183,100 +145,12 @@
 			path = Frameworks;
 			sourceTree = "<group>";
 		};
-		9FECB0B027B6537600AA22C8 /* JumioMRZ */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB0B127B6537600AA22C8 /* Jumio.xcframework */,
-			);
-			path = JumioMRZ;
-			sourceTree = "<group>";
-		};
-		9FECB0B227B6537600AA22C8 /* JumioSlim+Liveness */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB0B327B6537600AA22C8 /* Jumio.xcframework */,
-			);
-			path = "JumioSlim+Liveness";
-			sourceTree = "<group>";
-		};
-		9FECB0B527B6537600AA22C8 /* JumioSlim */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB0B627B6537600AA22C8 /* Jumio.xcframework */,
-			);
-			path = JumioSlim;
-			sourceTree = "<group>";
-		};
 		9FECB0B727B6537600AA22C8 /* Localization */ = {
 			isa = PBXGroup;
 			children = (
 				9FECB0B827B6537600AA22C8 /* Localizable-Jumio.strings */,
 			);
 			path = Localization;
-			sourceTree = "<group>";
-		};
-		9FECB0E127B6537600AA22C8 /* JumioBarcode+Liveness */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB0E227B6537600AA22C8 /* Jumio.xcframework */,
-			);
-			path = "JumioBarcode+Liveness";
-			sourceTree = "<group>";
-		};
-		9FECB0E327B6537600AA22C8 /* JumioLineFinder */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB0E427B6537600AA22C8 /* Jumio.xcframework */,
-			);
-			path = JumioLineFinder;
-			sourceTree = "<group>";
-		};
-		9FECB0E527B6537600AA22C8 /* Jumio */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB0E627B6537600AA22C8 /* Jumio.xcframework */,
-			);
-			path = Jumio;
-			sourceTree = "<group>";
-		};
-		9FECB0E727B6537700AA22C8 /* JumioBarcode */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB0E827B6537700AA22C8 /* Jumio.xcframework */,
-			);
-			path = JumioBarcode;
-			sourceTree = "<group>";
-		};
-		9FECB0E927B6537700AA22C8 /* JumioMRZ+Liveness */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB0EA27B6537700AA22C8 /* Jumio.xcframework */,
-			);
-			path = "JumioMRZ+Liveness";
-			sourceTree = "<group>";
-		};
-		9FECB0EB27B6537700AA22C8 /* JumioLineFinder+Liveness */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB0EC27B6537700AA22C8 /* Jumio.xcframework */,
-			);
-			path = "JumioLineFinder+Liveness";
-			sourceTree = "<group>";
-		};
-		9FECB0EE27B6537700AA22C8 /* Jumio+Liveness */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB0EF27B6537700AA22C8 /* Jumio.xcframework */,
-			);
-			path = "Jumio+Liveness";
-			sourceTree = "<group>";
-		};
-		9FECB12927B65A6500AA22C8 /* Jumio */ = {
-			isa = PBXGroup;
-			children = (
-				9FECB12A27B65A6500AA22C8 /* Jumio.xcframework */,
-			);
-			path = Jumio;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -290,15 +164,6 @@
 				9FECB10E27B6547900AA22C8 /* Jumio_Package.h in Headers */,
 				9FECB10F27B6548400AA22C8 /* iProov.xcframework in Headers */,
 				9FECB11027B6548700AA22C8 /* Jumio.xcframework in Headers */,
-				9FECB11127B6548A00AA22C8 /* Jumio.xcframework in Headers */,
-				9FECB11227B6548E00AA22C8 /* Jumio.xcframework in Headers */,
-				9FECB11327B6549100AA22C8 /* Jumio.xcframework in Headers */,
-				9FECB11427B6549300AA22C8 /* Jumio.xcframework in Headers */,
-				9FECB11527B6549600AA22C8 /* Jumio.xcframework in Headers */,
-				9FECB11627B6549900AA22C8 /* Jumio.xcframework in Headers */,
-				9FECB11727B6549D00AA22C8 /* Jumio.xcframework in Headers */,
-				9FECB11827B654A000AA22C8 /* Jumio.xcframework in Headers */,
-				9FECB11927B654A400AA22C8 /* Jumio.xcframework in Headers */,
 				9FECB11C27B654BA00AA22C8 /* Starscream.framework in Headers */,
 				9FECB11A27B654AB00AA22C8 /* Pdf417Mobi.xcframework in Headers */,
 			);
@@ -409,17 +274,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FECB12D27B660D200AA22C8 /* Jumio.xcframework in Sources */,
 				9FECB0F027B6539E00AA22C8 /* iProov.xcframework in Sources */,
-				9FECB0F127B6539E00AA22C8 /* Jumio.xcframework in Sources */,
-				9FECB0F227B6539E00AA22C8 /* Jumio.xcframework in Sources */,
-				9FECB0F327B6539E00AA22C8 /* Jumio.xcframework in Sources */,
-				9FECB0F427B6539E00AA22C8 /* Jumio.xcframework in Sources */,
-				9FECB0F527B6539E00AA22C8 /* Jumio.xcframework in Sources */,
-				9FECB0F627B6539E00AA22C8 /* Jumio.xcframework in Sources */,
-				9FECB0F727B6539E00AA22C8 /* Jumio.xcframework in Sources */,
-				9FECB0F827B6539E00AA22C8 /* Jumio.xcframework in Sources */,
-				9FECB0F927B6539E00AA22C8 /* Jumio.xcframework in Sources */,
-				9FECB0FA27B6539E00AA22C8 /* Jumio.xcframework in Sources */,
 				9FECB0FB27B6539E00AA22C8 /* Pdf417Mobi.xcframework in Sources */,
 				9FECB0FC27B6539E00AA22C8 /* SocketIO.framework in Sources */,
 				9FECB0FD27B6539E00AA22C8 /* Starscream.framework in Sources */,
